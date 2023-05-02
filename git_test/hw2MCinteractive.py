@@ -37,5 +37,5 @@ if(answer_order == '네'):
     print('직원: 총 {}원입니다. 예상 대기시간은 {}분 입니다.'.format(cost, time))
 
 else:
-    print('직원: 안녕히 가세요~')
+    print('직원: 안녕히 가세요~~')
 
